@@ -1,2 +1,2 @@
-# Desfio de Projeto do sbre Git/GitHub
+# Desfio de Projeto sobre Git/GitHub
 Repositósrio criado para o desafio de projeto
